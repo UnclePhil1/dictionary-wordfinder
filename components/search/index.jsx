@@ -46,7 +46,7 @@ const Search = () => {
           type="search"
           name=""
           id="search"
-          placeholder="Search for Meaning..."
+          placeholder="Let's Search..."
           className="rounded-lg bg-slate-100 outline-none border-none text-[20px] w-[100%]"
           onChange={handleInputChange}
           value={value}
