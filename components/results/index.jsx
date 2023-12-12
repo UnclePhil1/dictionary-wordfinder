@@ -94,7 +94,7 @@ const Results = () => {
               </h1>
               <SearchedMeanigList mean={response} />
               <h1 className="text-[2em] font-bold mt-4 text-primary">
-                Example:
+                Examples:
               </h1>
               <Examples mean={response} />
             </div>
